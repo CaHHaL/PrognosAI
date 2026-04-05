@@ -15,6 +15,8 @@ This project uses the **NASA CMAPSS dataset** to:
 * Generate intelligent alerts
 * Visualize results through a modern dashboard
 
+**Live Site**
+https://cahal-prognosai.streamlit.app/
 ---
 
 ## 🧠 Features
